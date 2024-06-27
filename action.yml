@@ -1,6 +1,6 @@
-name: 'The name of your action here'
-description: 'Provide a description here'
-author: 'Your name or organization here'
+name: 'Image Presence Audit Action'
+description: 'A GitHub action that scans Kubernetes manifests in the repository to verify the existence of referenced container images.'
+author: 'drumato'
 
 # Add your action's branding here. This will appear on the GitHub Marketplace.
 branding:
